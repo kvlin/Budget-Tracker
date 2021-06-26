@@ -23,9 +23,11 @@
 
 - Service Workers
 
-- IndexeDB
+- IndexedDB
 
 - Cache API
+
+- MongooseJS
 
 <h1>Installation</h1>
 <p>N/A. Access the application via the Heroku link provided in the Link section below.</p>
