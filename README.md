@@ -5,7 +5,7 @@
 <h2>Table of contents</h2>
 
 1. [Description](#Description)
-2. [Technologies used](#TechnologiesUsed)
+2. [Technologies used](#Technologies-Used)
 3. [Installation](#Installation)
 4. [Usage](#Usage)
 5. [Links](#Links)
