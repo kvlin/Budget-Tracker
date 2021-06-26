@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="theme-color" content="#317EFB">
+  <link rel="shortcut icon" href="icons/hand-icon-192x192.png" type="image/x-icon">
 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
@@ -15,10 +16,11 @@
 </head>
 <body>
   <!-- Header -->
-  <h1 class="appName" > Budget Tracker</h1>
+  <h1 class="appName" ><img src="icons/hand-icon-512x512.png"> Budget Tracker</h1>
   <hr>
   <div class="title-wrapper">
     <div class="currentAmount">Your total is: <br> $<span id="total">0</span></div>
+      <div id="updated">LAST UPDATED: <span id="update-time"></span>
     </div>
   </div>
   <!-- User input -->
@@ -46,6 +48,8 @@
     <!-- Graph -->
     <canvas id="myChart"></canvas>
   </div>
+  <!-- moment.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
   <!-- chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
   <!-- index.js -->

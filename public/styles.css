@@ -1,6 +1,7 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-color: rgb(137, 206, 247);
   margin:0;
 }
 img {
@@ -48,6 +49,13 @@ thead{
   
 }
 
+hr {
+  width:60%;
+  margin:0 auto;
+  border-top: 2px white solid;
+  border-radius: 2000px;
+}
+
 .appName {
  text-align: center;
  font-size: 3em;
@@ -67,6 +75,14 @@ thead{
 .form {
   margin-top: 25px;
   width: 100%;
+}
+
+#updated {
+  text-align: center;
+}
+
+.error {
+  color: red;
 }
 
 .transactions {
