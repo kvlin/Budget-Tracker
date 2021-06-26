@@ -28,10 +28,6 @@ table {
   position: relative;
 }
 
-th {
-  border-bottom: none;
-  color: white
-}
 thead{
   position: sticky;
   top: 0;
@@ -39,7 +35,17 @@ thead{
   border-bottom: #ffffff;
   z-index: 1;
   background-color: rgb(143, 141, 218)
-  
+}
+th {
+  border-bottom: none;
+  color: white
+}
+
+.title-wrapper {
+  background-color: rgb(143, 141, 218);
+  padding: 0 auto;
+  color: white;
+  margin: 2em 0; 
 }
 
 .wrapper {
@@ -79,6 +85,7 @@ hr {
 
 #updated {
   text-align: center;
+  color:rgb(233, 233, 233);
 }
 
 .error {
