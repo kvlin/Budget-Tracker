@@ -9,7 +9,7 @@
 3. [Installation](#Installation)
 4. [Usage](#Usage)
 5. [Links](#Links)
-6. [Contributing](#Contributing)
+6. [Screenshots](#Screenshots)
 7. [Questions](#Questions) 
 
 
@@ -36,10 +36,11 @@
 <p>Upon successfully running the application, you may disconnect the network and keep adding/subtracting values. Upon regaining online access, the application will automatically synchornize the offline data with the MongoDB Atlas database.</p>
 <br>
 <h1>Links</h1>
-<p>undefined
+<p>Deployed Heroku app: https://kvlin-budget-tracker.herokuapp.com/
 <br>
-<h1>Contributing</h1>
-<p>Pull requests welcome!</p>
+<h1>Screenshots</h1>
+<strong>Desktop view</strong>
+<img src="./public/images/pc-screenshot.png" alt="Desktop screenshot">
 <br>
 <h1>Questions</h1>
 <p><span>My Github profile: </span><a href="https://github.com/kvlin" class="col-12">https://github.com/kvlin</a></p>
