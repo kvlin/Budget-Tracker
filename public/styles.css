@@ -120,3 +120,35 @@ input {
   margin-top: 10px;
 }
 
+@media only screen and (max-width: 500px) {
+  .appName {
+    text-align: center;
+    font-size: 2em;
+    margin: 0.2em
+   }
+  .currentAmount {
+    font-size: 1em;
+  }
+  .title-wrapper {
+    margin: 0;
+  }
+  #updated {
+    font-size: 0.8em;
+  }
+  hr {
+    display:none
+  }
+  .form {
+    margin-top: 5px;
+  }
+  .transactions-container {
+    border-radius: 0px;
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width: 345px) {
+img {
+  display:none;
+}
+}
