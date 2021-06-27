@@ -43,8 +43,8 @@
 <img src="./public/images/desktop-screenshot.png" alt="Desktop screenshot"><br/>
 <strong>Mobile views (iPhone 11)<strong>
 <br/>
-<img src="./public/images/iphone11-screenshot-1.png" alt="Desktop screenshot" width="300"style="max-height:700px; margin-right:30px">
-<img src="./public/images/iphone11-screenshot-2.png" style="max-height:700px" alt="Desktop screenshot">
+<img src="./public/images/iphone11-screenshot-1.png" alt="Desktop screenshot" width="300"style="margin-right:30px">
+<img src="./public/images/iphone11-screenshot-2.png" width="300" alt="Desktop screenshot">
 <br>
 <h1>Questions</h1>
 <p><span>My Github profile: </span><a href="https://github.com/kvlin" class="col-12">https://github.com/kvlin</a></p>
