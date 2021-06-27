@@ -40,9 +40,9 @@
 <br>
 <h1>Screenshots</h1>
 <strong>Desktop view</strong>
-<img src="./public/images/desktop-screenshot.png" alt="Desktop screenshot">
+<img src="./public/images/desktop-screenshot.png" alt="Desktop screenshot"><br/>
 <strong>Mobile views (iPhone 11)<strong>
-<br>
+<br/>
 <img src="./public/images/iphone11-screenshot-1.png" alt="Desktop screenshot" style="height:700px; margin-right:30px">
 <img src="./public/images/iphone11-screenshot-2.png" style="height:700px" alt="Desktop screenshot">
 <br>
