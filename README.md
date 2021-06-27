@@ -36,7 +36,7 @@
 <p>Upon successfully running the application, you may disconnect the network and keep adding/subtracting values. Upon regaining online access, the application will automatically synchornize the offline data with the MongoDB Atlas database.</p>
 <br>
 <h1>Links</h1>
-<p>Deployed Heroku App: <a target="_blank">https://kvlin-budget-tracker.herokuapp.com/</a>
+<p>Deployed Heroku App: <a href="https://kvlin-budget-tracker.herokuapp.com/" target="_blank">Budget-tracker</a>
 <br>
 <h1>Screenshots</h1>
 <strong>Desktop view</strong>
