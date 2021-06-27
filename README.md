@@ -43,7 +43,7 @@
 <img src="./public/images/desktop-screenshot.png" alt="Desktop screenshot"><br/>
 <strong>Mobile views (iPhone 11)<strong>
 <br/>
-<img src="./public/images/iphone11-screenshot-1.png" alt="Desktop screenshot" style="max-height:700px; margin-right:30px">
+<img src="./public/images/iphone11-screenshot-1.png" alt="Desktop screenshot" width="300"style="max-height:700px; margin-right:30px">
 <img src="./public/images/iphone11-screenshot-2.png" style="max-height:700px" alt="Desktop screenshot">
 <br>
 <h1>Questions</h1>
