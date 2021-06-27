@@ -41,11 +41,10 @@
 <h1>Screenshots</h1>
 <strong>Desktop view</strong>
 <img src="./public/images/desktop-screenshot.png" alt="Desktop screenshot">
-<strong>Mobile view (iPhone 11) - 1<strong>
-<img src="./public/images/iphone11-screenshot-1.png" alt="Desktop screenshot">
+<strong>Mobile views (iPhone 11)<strong>
 <br>
-<strong>Mobile view (iPhone 11) - 2<strong>
-<img src="./public/images/iphone11-screenshot-2.png" alt="Desktop screenshot">
+<img src="./public/images/iphone11-screenshot-1.png" alt="Desktop screenshot" style="height:700px; margin-right:30px">
+<img src="./public/images/iphone11-screenshot-2.png" style="height:700px" alt="Desktop screenshot">
 <br>
 <h1>Questions</h1>
 <p><span>My Github profile: </span><a href="https://github.com/kvlin" class="col-12">https://github.com/kvlin</a></p>
